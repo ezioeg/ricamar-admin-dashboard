@@ -21,7 +21,6 @@ function Sidebar() {
   const [expanded, setExpand] = useState(false);
 
   return (
-    //Sidebar
     <>
       <ClickOutside
         onClickOutside={() => {
