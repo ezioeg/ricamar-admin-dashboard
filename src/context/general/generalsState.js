@@ -33,7 +33,7 @@ import {
   ELIMINAR_PRODUCTO_CARRITO,
   PAGO_TOTAL,
   CANTIDAD_TOTAL,
-} from "../../types";
+} from "../types";
 
 const GeneralState = (props) => {
   const initialState = {
