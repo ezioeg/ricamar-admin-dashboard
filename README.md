@@ -1,6 +1,6 @@
-# Ricamar Admin Dashboard
+# Sales Management Dashboard
 
-Ricamar Admin Dashboard es una aplicación web que permite gestionar ventas de productos de manera eficiente. La aplicación permite crear órdenes de compra, administrar vendedores, clientes, productos, ofertas y gestionar el inventario.
+Sales Management Dashboard es una aplicación web que permite gestionar ventas de productos de manera eficiente. La aplicación permite crear órdenes de compra, administrar vendedores, clientes, productos, ofertas y gestionar el inventario.
 
 ## Características
 
@@ -22,12 +22,12 @@ Ricamar Admin Dashboard es una aplicación web que permite gestionar ventas de p
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/ricamar-admin-dashboard.git
+   git clone https://github.com/tu-usuario/sales-management-dashboard.git
 
 2. Navega al directorio del proyecto:
 
    ```bash
-   cd ricamar-admin-dashboard
+   cd sales-management-dashboard
 
 3. Instala las dependencias:
 
